@@ -7,6 +7,7 @@ public static void Main (string[] args) {
 // Ввод массива строк с клавиатуры
 Console.Write("Мы учим Git");
 Console.Write("Мы учим GitHub");
+Console.Write("Ошибочное сохранение");
 Console.Write("Введите массив строк через запятую: ");
 string[] input_array = Console.ReadLine().Split(',');
 
